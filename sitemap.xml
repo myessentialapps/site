@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://myessentialapps.github.com/site/blog/archives/</loc>
+        <loc>http://www.myessentialapps.com/blog/archives/</loc>
         <lastmod>2012-11-23T14:14:30-08:00</lastmod>
     </url>
     <url>
-        <loc>http://myessentialapps.github.com/site/</loc>
+        <loc>http://www.myessentialapps.com/</loc>
         <lastmod>2012-11-23T14:14:30-08:00</lastmod>
     </url>
 </urlset>
